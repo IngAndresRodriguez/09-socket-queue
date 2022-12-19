@@ -1,0 +1,23 @@
+{
+  "last": 50,
+  "today": 19,
+  "tickets": [],
+  "last4": [
+    {
+      "number": 50,
+      "desk": "Escritorio 3"
+    },
+    {
+      "number": 49,
+      "desk": "Escritorio 2"
+    },
+    {
+      "number": 48,
+      "desk": "Escritorio 3"
+    },
+    {
+      "number": 47,
+      "desk": "Escritorio 2"
+    }
+  ]
+}
